@@ -24,7 +24,7 @@ const About = () => {
         className="portfolio-avatar"
       />
       <div className="portfolio-name">Tohit Khan</div>
-      <div className="portfolio-title">Frontend Development Intern</div>
+      <div className="portfolio-title">Full Stack Developer</div>
       <div className="portfolio-intro">
         Based in Babra, Pali, Rajasthan, I am a BTech student specializing in CSE(AI/ML) at Polaris School of Technology.<br/>
         I am passionate about creating intuitive and efficient web applications using modern technologies.
@@ -49,7 +49,7 @@ const About = () => {
           <FaEnvelope />
         </a>
         <a
-          href="https://github.com/tohit-khan"
+          href="https://github.com/tohit09Fst"
           className="portfolio-social-link"
           title="GitHub"
           target="_blank"
@@ -58,7 +58,7 @@ const About = () => {
           <FaGithub />
         </a>
         <a
-          href="https://linkedin.com/in/tohit-khan"
+          href="https://www.linkedin.com/in/tohit-khan-81a4152a9/"
           className="portfolio-social-link"
           title="LinkedIn"
           target="_blank"

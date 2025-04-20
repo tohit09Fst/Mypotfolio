@@ -9,8 +9,8 @@ const Projects = () => {
       title: 'RealEstate',
       description: 'Developed a MERN stack application that streamlined property management processes, reducing communication delays between real estate agents and buyers by 30%.',
       technologies: ['MERN Stack', 'JWT', 'ImageKit', 'RBAC'],
-      liveLink: 'Live',
-      githubLink: 'Github-Link',
+      liveLink: 'https://realestate-mocha-eight.vercel.app/',
+      githubLink: 'https://github.com/tohit09Fst/REALESTATE',
       achievements: [
         'Implemented role-based access control (RBAC) and real-time scheduling features',
         'Integrated advanced features including Admin Portal and secure authentication',
@@ -22,8 +22,8 @@ const Projects = () => {
       title: 'Auction App',
       description: 'Built a modern auction platform allowing 100+ users to list properties, place bids, and track auctions in real time.',
       technologies: ['MERN Stack', 'Real-time Monitoring', 'RBAC'],
-      liveLink: 'Live',
-      githubLink: 'Github-Link',
+      liveLink: 'https://next-bid-euwb.vercel.app/',
+      githubLink: 'https://github.com/tohit09Fst/Next-Bid',
       achievements: [
         'Delivered a Superadmin dashboard for real-time monitoring',
         'Developed a robust RBAC system for 200+ unique users',
@@ -35,8 +35,8 @@ const Projects = () => {
       title: 'Quiz-App',
       description: 'Enhanced a MERN stack quiz application with secure authentication, enabling 200+ users to engage in personalized language-learning.',
       technologies: ['MERN Stack', 'Real-time Leaderboard', 'User Customization'],
-      liveLink: 'Live',
-      githubLink: 'Github-Link',
+      liveLink: 'https://demo1-0zpe.onrender.com/profile',
+      githubLink: 'https://github.com/tohit09Fst/Quiz-App',
       achievements: [
         'Implemented interactive quizzes and real-time leaderboard',
         'Added user profile customization features',
